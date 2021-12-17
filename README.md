@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Arthur !
+
+Currently student in 42 School in Paris. Love C/Python/Rust and Cybersecurity !
+
+[![atrouill's 42 stats](https://badge42.herokuapp.com/api/stats/atrouill?darkmode=true)](https://github.com/arthur-trt/)
+
+Creator of [genMake](https://github.com/arthur-trt/genMake)
+
 
 <!--
 **arthur-trt/arthur-trt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
