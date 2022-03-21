@@ -2,7 +2,7 @@
 
 Currently student in 42 School in Paris. Love C/Python/Rust and Cybersecurity !
 
-[![atrouill's 42 stats](https://badge42.herokuapp.com/api/stats/atrouill?darkmode=true)](https://github.com/arthur-trt/)
+[![atrouill's 42 stats](https://badge42.vercel.app/api/v2/stats/cl0z3j7jr001009jvys8o0zse?cursusId=21)](https://github.com/JaeSeoKim/badge42)
 
 Creator of [genMake](https://github.com/arthur-trt/genMake)
 
